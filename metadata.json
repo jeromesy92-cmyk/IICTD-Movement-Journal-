@@ -1,0 +1,5 @@
+{
+  "name": "IICTD Movement Journal",
+  "description": "A comprehensive staff movement monitoring and recording system for IICTD with role-based access, supervisor approvals, and advanced reporting.",
+  "requestFramePermissions": []
+}
